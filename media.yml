@@ -1,6 +1,8 @@
 ---
   children: 
     -
+      text: hola manaña
+    -
       text: saludos
     - 
       title: fd
