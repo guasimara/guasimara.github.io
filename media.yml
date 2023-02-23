@@ -1,0 +1,48 @@
+---
+  children: 
+    -
+      text: saludos
+    - 
+      title: fd
+      subtitle: fsd
+      img: fds.jpg
+      children:
+        - 
+          img: fdsfsd.jpg
+        - 
+          redirect: "http://utopies-concretes.org"
+
+    - 
+      title: "fsdfsd"
+      subtitle: "amours du métro parisien"
+      img: cdlm/cdlm_thumb.jpg
+      children: 
+        - 
+          text: "Carte interactive des messages amoureux parisiens"
+        - 
+          img: cdlm/cdlm_carte_a.jpg
+        - 
+          redirect: "http://pierrejdlf.github.io/cdlm"
+        - 
+          img: cdlm/cdlm_carte_b.jpg
+        - 
+          text: pour voir où on s'aime
+        - 
+          img: cdlm/cdlm_popup.jpg
+        - 
+          img: cdlm/cdlm_traces.jpg
+        -
+          img: cdlm/cdlm_graphe.jpg
+    - 
+      text: la cartographie des désirs définit la méthodologie de toute révolution
+    - 
+      title: "ajusatd"
+      subtitle: "amours du métro parisien"
+      img: cdlm/cdlm_thumb.jpg
+      children: 
+        - 
+          text: "Carte interactive des messages amoureux parisiens"
+        - 
+          img: cdlm/cdlm_carte_a.jpg
+        - 
+          img: cdlm/cdlm_carte_a.jpg
